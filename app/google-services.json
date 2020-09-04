@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "728465328085",
+    "firebase_url": "https://hyostagram-7fad2.firebaseio.com",
+    "project_id": "hyostagram-7fad2",
+    "storage_bucket": "hyostagram-7fad2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728465328085:android:cab977cadffb7bdcce5f5c",
+        "android_client_info": {
+          "package_name": "com.example.hyostagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728465328085-fqv9fc96n65q8riv3qtolj68gmcmgnaf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hyostagram",
+            "certificate_hash": "27726b4fd3650991735a7431fcbd87384c1b2af3"
+          }
+        },
+        {
+          "client_id": "728465328085-uoakqkbm1cf7rnpkjftq62m6mn1d01uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnQg03JCU_Q0ai8UkpHqszWy2_aTVBuPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728465328085-uoakqkbm1cf7rnpkjftq62m6mn1d01uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
